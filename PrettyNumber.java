@@ -16,6 +16,7 @@ Constraints
 1≤L≤R≤10^5
 */
 
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
