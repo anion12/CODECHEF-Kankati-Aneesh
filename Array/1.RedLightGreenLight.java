@@ -22,7 +22,6 @@ Output Format
 For each test case, output in a single line the minimum number of players who need to get shot so that Ali is visible in Gi-Hun's line of sight.
 */
 
-
 import java.util.Scanner;
 
 class Codechef {
